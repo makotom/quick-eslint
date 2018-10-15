@@ -1,0 +1,5 @@
+**/*
+!.eslintrc.js
+!.gitignore
+!package-lock.json
+!package.json
