@@ -1,12 +1,12 @@
 {
     "name": "quick-eslint",
-    "version": "1.0.20181010",
+    "version": "1.0.20190813",
     "scripts": {
-        "lint": "eslint *.js"
+        "lint": "eslint '**/*.js'"
     },
     "author": "Makoto Mizukami <comm@makotom.org>",
     "license": "ISC",
     "dependencies": {
-        "eslint": "^5.6.1"
+        "eslint": "^5.16.0"
     }
 }
