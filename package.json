@@ -7,6 +7,6 @@
     "author": "Makoto Mizukami <comm@makotom.org>",
     "license": "ISC",
     "dependencies": {
-        "eslint": "^5.16.0"
+        "eslint": "^6.2.2"
     }
 }
