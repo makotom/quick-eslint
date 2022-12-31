@@ -1,12 +1,13 @@
 {
-    "name": "quick-eslint",
-    "version": "1.0.20190813",
-    "scripts": {
-        "lint": "eslint '**/*.js'"
-    },
-    "author": "Makoto Mizukami <comm@makotom.org>",
-    "license": "ISC",
-    "dependencies": {
-        "eslint": "^6.8.0"
-    }
+  "name": "quick-eslint",
+  "version": "1.0.20221231",
+  "scripts": {
+    "lint": "eslint --fix",
+    "prettier": "prettier --write"
+  },
+  "author": "Makoto Mizukami <comm@makotom.org>",
+  "dependencies": {
+    "eslint": "^8.31.0",
+    "prettier": "^2.8.1"
+  }
 }

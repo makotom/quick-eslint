@@ -1,5 +1,6 @@
 **/*
 !.eslintrc
 !.gitignore
-!package-lock.json
 !package.json
+!.prettierrc
+!yarn.lock
