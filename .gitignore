@@ -1,5 +1,6 @@
 **/*
 !.eslintrc
+!eslint.config.mjs
 !.gitignore
 !package.json
 !.prettierrc
